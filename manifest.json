@@ -1,0 +1,5 @@
+git init
+git add manifest.json
+git commit -m "add manifest.json"
+git remote add origin https://github.com/JKSpace/wordmate-dict.git
+git push -u origin main
