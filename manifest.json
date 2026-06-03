@@ -1,5 +1,8 @@
-git init
-git add manifest.json
-git commit -m "add manifest.json"
-git remote add origin https://github.com/JKSpace/wordmate-dict.git
-git push -u origin main
+{
+  "version_code": 1,
+  "version_name": "1.0.0",
+  "size_bytes": 9728000,
+  "md5": "283c4053627b98ca81bd4ceaafc0b988",
+  "word_count": 14747,
+  "release_date": "2026-06-03"
+}
